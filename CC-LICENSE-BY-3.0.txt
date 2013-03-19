@@ -1,0 +1,9 @@
+This work is licensed under the 
+Creative Commons Attribution 3.0 Unported License. 
+To view a copy of this license, visit 
+http://creativecommons.org/licenses/by/3.0/.
+
+To make an attribution to this work, please mention either of
+the following URLs:
+http://bio2rdf.org
+https://github.com/bio2rdf/bio2rdf-mapping
